@@ -13,9 +13,5 @@ Com o objrtivo de exercitar:
 - Estruturação de páginas
 - Organização de CSS
 
-# YouTube-project (HTML + CSS): Projeto principal
-Projeto desenvolvido durante curso de HTML e CSS.
-Recriar a interface do YouTube para praticar layout, responsividade e organização de código.
-
 ## Objetivo
 Praticar desenvolvimento front-end e construção de layouts.
